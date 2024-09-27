@@ -56,6 +56,7 @@ void File::newBlock(const Block &block)
 	blocks.append(block);
 }
 /*BUNDAN SONRASI PROBLEMLİ,öncesi çalışıyor*/
+/*Değişiklik*/
 void File::removeBlock(int index)
 {
 
